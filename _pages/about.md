@@ -22,6 +22,10 @@ My name is Abhijit Sarkar. I am a Senior Research Associate in the Division of D
 
 My research focuses towards building 'safe, secure, and healthy world' that serves all. 
 
+I comopleted my doctoral study from the [Bradley Department of Electrical and Computer Engineering](https://ece.vt.edu/), Virginia Tech, under teh supervision of [Dr. Lynn Aboot](https://ece.vt.edu/people/profile/abbott.html) and [Dr. Zachary Doerzaph](https://www.vtti.vt.edu/staffdir/bio.php?&pn=112645). Prior to that, I completed my MTech from [Indian Institute of Technology, Kharagpur](https://www.iitkgp.ac.in/) and my bachelor's from [Jadavpur University](https://jadavpuruniversity.in/), India, all in Electrical Engineering. 
+
+<!-- I have authored more than 45 publications, including journals, conference proceedings, book chapters, and technical reports. This mainly includes development and testing of modern computer vision systems, including convolutional neural networks. Dr. Sarkar has over 14 years of experience in software development for both academia and industry. 
+
 <!-- Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 # Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
