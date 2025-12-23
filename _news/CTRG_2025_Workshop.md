@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Workshop on Multimodal ITS was help at [CTRG 2025](https://ctrg2025.trgindia.org/)
+Workshop on Multimodal ITS was held at [CTRG 2025](https://ctrg2025.trgindia.org/)
