@@ -5,7 +5,7 @@ permalink: /Projects/
 description: Under Construction
 nav: true
 nav_order: 3
-display_categories: [Intelligent Transportation Systems, Artificial Intelligence, Health, Human Factors, Responsible AI]
+display_categories: [Intelligent Transportation Systems, Artificial Intelligence, Health, Human Factors, Responsible AI, fun]
 horizontal: false
 ---
 
