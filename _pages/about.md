@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://www.vtti.vt.edu/'>VTTI</a>. Blacksburg, VA, USA.
 
 profile:
   align: right
