@@ -7,7 +7,7 @@ subtitle: <a href='https://www.vtti.vt.edu/'>VTTI</a>. Blacksburg, VA, USA.
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     #<p>Team Leader, VTTI</p>
     <p>Blacksburg, Virginia </p>
