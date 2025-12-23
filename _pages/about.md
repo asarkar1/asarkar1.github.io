@@ -22,7 +22,7 @@ My name is Abhijit Sarkar. I am a Senior Research Associate in the Division of D
 
 My research focuses towards building 'safe, secure, and healthy world' that serves all. 
 
-I comopleted my doctoral study from the [Bradley Department of Electrical and Computer Engineering](https://ece.vt.edu/), Virginia Tech, under teh supervision of [Dr. Lynn Aboot](https://ece.vt.edu/people/profile/abbott.html) and [Dr. Zachary Doerzaph](https://www.vtti.vt.edu/staffdir/bio.php?&pn=112645). Prior to that, I completed my MTech from [Indian Institute of Technology, Kharagpur](https://www.iitkgp.ac.in/) and my bachelor's from [Jadavpur University](https://jadavpuruniversity.in/), India, all in Electrical Engineering. 
+I comopleted my doctoral study from the [Bradley Department of Electrical and Computer Engineering](https://ece.vt.edu/), Virginia Tech, under the supervision of [Dr. Lynn Aboot](https://ece.vt.edu/people/profile/abbott.html) and [Dr. Zachary Doerzaph](https://www.vtti.vt.edu/staffdir/bio.php?&pn=112645). Prior to that, I completed my MTech from [Indian Institute of Technology, Kharagpur](https://www.iitkgp.ac.in/) and my BE from [Jadavpur University](https://jadavpuruniversity.in/), India, both in Electrical Engineering. 
 
 <!-- I have authored more than 45 publications, including journals, conference proceedings, book chapters, and technical reports. This mainly includes development and testing of modern computer vision systems, including convolutional neural networks. Dr. Sarkar has over 14 years of experience in software development for both academia and industry. 
 
