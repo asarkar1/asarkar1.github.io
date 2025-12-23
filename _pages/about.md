@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    #<p>Team Leader, VTTI</p>
+    <p>Team Leader, VTTI</p>
     <p>Blacksburg, Virginia </p>
     <p>USA</p>
 
@@ -18,7 +18,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Dr. Abhijit Sarkar is a Senior Research Associate in the Division of Data & Analytics at [Virginia Tech Transportation Institute (VTTI)](https://www.vtti.vt.edu/). He currently leads the computer vision and machine learning group at VTTI. He is also a Lecturer in the [Bradley Department of Electrical and Computer Engineering](https://ece.vt.edu/) and as an Affiliated Faculty in the [Department of Computer Science](https://cs.vt.edu/). In addition, He is a Faculty Affiliate of the [Sanghani Center for Artificial Intelligence and Data Analytics](https://sanghani.cs.vt.edu/) and the [Center for Future Work Places and Practices](https://cfwpp.icat.vt.edu/).
+My name is Abhijit Sarkar. I am a Senior Research Associate in the Division of Data & Analytics at [Virginia Tech Transportation Institute (VTTI)](https://www.vtti.vt.edu/). I currently lead the computer vision and machine learning group whish is part of the Division of Data and Analytics. I am also a Lecturer in the [Bradley Department of Electrical and Computer Engineering](https://ece.vt.edu/) and an Affiliated Faculty in the [Department of Computer Science](https://cs.vt.edu/). In addition, I am Faculty Affiliate at the [Sanghani Center for Artificial Intelligence and Data Analytics](https://sanghani.cs.vt.edu/) and the [Center for Future Work Places and Practices](https://cfwpp.icat.vt.edu/).
+
+My research focuses towards building 'safe, secure, and healthy world' that serves all. 
 
 <!-- Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
